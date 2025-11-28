@@ -2,7 +2,7 @@
 frontend engineer exploring the full spectrum of software — from ui engineering to backend, mobile, and ai. 
 building clean, fast, and thoughtful digital experiences.
 
-
+---
 
 ### what i build  
 🧩 **full production apps**  
@@ -28,13 +28,13 @@ building clean, fast, and thoughtful digital experiences.
 
 ---
 
-### what you'll find here  
-- personal projects
-- experiments, rewrites & clones
-- learning notes + fundamentals
+### 📂 what you'll find here  
+🛠️ personal projects  
+✨ experiments, rewrites & clones  
+📘 learning notes + fundamentals
 
 ---
 
-### my approach  
-minimal • intentional • fast • user-first  
+### ✨ my approach  
+creative • intentional • fast • user-first  
 
