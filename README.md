@@ -2,7 +2,7 @@
 frontend engineer exploring the full spectrum of software — from ui engineering to backend, mobile, and ai. 
 building clean, fast, and thoughtful digital experiences.
 
---
+________
 
 ### what i build  
 🧩 **full production apps**  
