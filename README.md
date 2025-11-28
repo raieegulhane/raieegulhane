@@ -5,11 +5,11 @@ building clean, fast, and thoughtful digital experiences.
 ---
 
 ### 👷🏻‍♀️ what i build  
-🧩 **full production apps**  
-🎨 **high-quality ui/ux implementations**  
-⚙️ **feature-rich web experiences**  
-🗂️ **tools, dashboards & internal utilities**  
-🚀 **personal products & prototypes**
+- **full production apps**  
+- **high-quality ui/ux implementations**  
+- **feature-rich web experiences**  
+- **tools, dashboards & internal utilities**  
+- **personal products & prototypes**
 
 ---
 
@@ -29,9 +29,9 @@ building clean, fast, and thoughtful digital experiences.
 ---
 
 ### 📂 what you'll find here  
-🛠️ personal projects  
-👾 experiments, rewrites & clones  
-📘 learning notes + fundamentals
+- personal projects  
+- experiments, rewrites & clones  
+- learning notes + fundamentals
 
 ---
 
