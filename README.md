@@ -14,23 +14,23 @@ building clean, fast, and thoughtful digital experiences.
 ---
 
 ### what i work with  
-**react, next.js, javascript, typescript, react native**  
-clean components, thoughtful ux, predictable state, and performance-minded design.
+- **react, next.js, javascript, typescript, react native**  
+- clean components, thoughtful ux, predictable state, and performance-minded design.
 
 ---
 
 ### what i'm exploring  
-backend fundamentals • node.js • api design  
-react native mobile dev  
-ai tools + ml basics  
-systems thinking + software architecture
+- backend fundamentals • node.js • api design  
+- react native mobile dev  
+- ai tools + ml basics  
+- systems thinking + software architecture
 
 ---
 
 ### what you'll find here  
-personal projects
-experiments, rewrites & clones
-learning notes + fundamentals
+- personal projects
+- experiments, rewrites & clones
+- learning notes + fundamentals
 
 ---
 
