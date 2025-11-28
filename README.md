@@ -30,7 +30,7 @@ building clean, fast, and thoughtful digital experiences.
 
 ### 📂 what you'll find here  
 🛠️ personal projects  
-💢 experiments, rewrites & clones  
+👾 experiments, rewrites & clones  
 📘 learning notes + fundamentals
 
 ---
